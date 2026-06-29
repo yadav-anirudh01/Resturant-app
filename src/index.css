@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-high-density-bg: #0A0B0E;
+  --color-high-density-panel: #15181F;
+  --color-high-density-sidebar: #0F1117;
+  --color-high-density-border: #1E293B;
+  --color-high-density-highlight: #14171F;
+}

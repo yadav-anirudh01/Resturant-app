@@ -1,0 +1,6 @@
+{
+  "name": "RestaurantOS AI",
+  "description": "Smart Restaurant Management System 2.0 with AI Analytics, POS, Kitchen Display, Inventory Tracking, and Table Reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
